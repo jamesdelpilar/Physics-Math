@@ -1,8 +1,8 @@
 # Physics-Math
 
-Ray-Sphere Collision \n
-Ray-AAB Collision \n
-Quaternions \n
-Euler Angles \n
+Ray-Sphere Collision <br />
+Ray-AAB Collision <br />
+Quaternions <br />
+Euler Angles <br />
 
 
