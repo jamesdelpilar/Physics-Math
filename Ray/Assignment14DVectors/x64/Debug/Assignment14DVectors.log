@@ -1,3 +1,0 @@
-﻿  Vec4.cpp
-C:\Users\James\Desktop\Assignment2SphereBox\Assignment14DVectors\Vec4.cpp(23,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Assignment14DVectors.vcxproj -> C:\Users\James\Desktop\Assignment2SphereBox\x64\Debug\Assignment14DVectors.exe
