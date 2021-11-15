@@ -8,6 +8,7 @@ Matrices <br />
 Planes <br />
 Dot Product <br />
 Cross Product <br />
+Magnitude <br />
  
 
 
