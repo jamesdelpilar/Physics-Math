@@ -1,0 +1,14 @@
+[INFO]: Starting the GameSceneManager
+[INFO]: SceneManager Constructor
+[INFO]: OpenGL version: 4.6.0 NVIDIA 466.11
+[INFO]: Graphics card vendor NVIDIA Corporation
+[INFO]: Graphics card name NVIDIA GeForce GTX 1070/PCIe/SSE2
+[INFO]: GLSL Version 4.60 NVIDIA
+[INFO]: Creating Timer
+[INFO]: Created Scene1
+[INFO]: Created Scene1
+[INFO]: Created Scene2
+[INFO]: Scene3: 
+[INFO]: Scene3: 
+[INFO]: Scene4: 
+[INFO]: Deleting the GameSceneManager
