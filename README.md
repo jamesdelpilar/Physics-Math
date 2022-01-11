@@ -15,9 +15,10 @@ StaticSphere-Sphere Collision <br />
 Buoyancy <br />
 Newtons Laws of Motion <br />
 Gravity Well <br />
-
-Video (Sphere Collision and Buoyancy) - https://youtu.be/juqrca9IpFs | https://youtu.be/qUOAGAvV29A<br />
-Video (Gravity Well) - https://youtu.be/atT2WAqpI_c <br />
  
+[Sphere Collision](https://youtu.be/juqrca9IpFs/) <br />
+[Buoyancy](https://youtu.be/qUOAGAvV29A/) <br />
+[Gravity Well](https://youtu.be/atT2WAqpI_c) <br />
 
 
+![giphy](https://user-images.githubusercontent.com/71074350/148994199-f56cb80c-0806-4b5d-b0d4-91079c50c2cb.gif)
